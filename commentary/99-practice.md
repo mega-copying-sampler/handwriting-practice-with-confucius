@@ -1,5 +1,10 @@
 # 練習帳(연습장)
 
+여러 장 출력하여 연습할 수 있는 양식입니다.
+
+* [PDF](../download/논어%20손글씨%20교본-99-연습장.pdf) 다운로드
+
+---
 
 > <ruby>百<rp>(</rp><rt>백</rt><rp>)</rp></ruby><ruby>尺<rp>(</rp><rt>척</rt><rp>)</rp></ruby><ruby>竿<rp>(</rp><rt>간</rt><rp>)</rp></ruby><ruby>頭<rp>(</rp><rt>두</rt><rp>)</rp></ruby><sub>에서</sub> <ruby>進<rp>(</rp><rt>진</rt><rp>)</rp></ruby><ruby>一<rp>(</rp><rt>일</rt><rp>)</rp></ruby><ruby>步<rp>(</rp><rt>보</rt><rp>)</rp></ruby><sub>라</sub>.
 > 

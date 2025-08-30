@@ -1,5 +1,13 @@
 # 學而(학이)
 
+> 原注: 此<sub>는</sub> 爲書之首篇<sub>이라</sub> 故<sub>로</sub> 所記多務本之意<sub>하니</sub> 乃入道之門<sub>이요</sub> 積德之基<sub>니</sub> 學者之先務也<sub>라</sub> 凡十六章<sub>이라</sub>.
+> 
+> 원주: 이번 편은 책은 첫 번째 편이므로 근본에 초점을 맞춘 내용이 많습니다. 도(道)로 가는 관문이자 덕을 쌓는 토대이며, 학자들의 최우선 과제입니다. 모두 16장입니다.
+
+* [PDF](../download/논어%20손글씨%20교본-01-학이.pdf) 다운로드
+
+---
+
 > <ruby>子<rp>(</rp><rt>자</rt><rp>)</rp></ruby><ruby>曰<rp>(</rp><rt>왈</rt><rp>)</rp></ruby>, <ruby>學<rp>(</rp><rt>학</rt><rp>)</rp></ruby><ruby>而<rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby>時<rp>(</rp><rt>시</rt><rp>)</rp></ruby><ruby>習<rp>(</rp><rt>습</rt><rp>)</rp></ruby><ruby>之<rp>(</rp><rt>지</rt><rp>)</rp></ruby><sub>면</sub>, <ruby>不<rp>(</rp><rt>불</rt><rp>)</rp></ruby><ruby>亦<rp>(</rp><rt>역</rt><rp>)</rp></ruby><ruby>悅<rp>(</rp><rt>열</rt><rp>)</rp></ruby><ruby>乎<rp>(</rp><rt>호</rt><rp>)</rp></ruby><sub>아</sub>?
 > 
 > 공자님 말씀하시길, 배우고 때때로 익히면 또한 기쁘지 아니한가?
