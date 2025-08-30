@@ -10,8 +10,8 @@
 
 ## 목차(目次)
 
-* 표지(標紙) 및 서문(序文) ([PDF](download/논어%20손글씨%20교본-00.pdf))
-1. [학이(學而)](commentary/01-xue-er.md) ([PDF](download/논어%20손글씨%20교본-01-학이.pdf))
+* 표지(標紙) 및 서문(序文) ([PDF 파일](download/논어%20손글씨%20교본-00.pdf))
+1. [학이(學而)](commentary/01-xue-er.md) ([PDF 파일](download/논어%20손글씨%20교본-01-학이.pdf))
 2. [위정(爲政)](commentary/02-wei-zheng.md)
 3. [팔일(八佾)](commentary/03-ba-yi.md)
 4. [이인(里仁)](commentary/04-li-ren.md)
@@ -31,7 +31,7 @@
 18. [미자(微子)](commentary/18-wei-zi.md)
 19. [자장(子張)](commentary/19-zi-zhang.md)
 20. [요왈(堯曰)](commentary/20-yao-yue.md)
-* [연습장(練習帳)](commentary/99-practice.md) ([PDF](download/논어%20손글씨%20교본-99-연습장.pdf))
+* [연습장(練習帳)](commentary/99-practice.md) ([PDF 파일](download/논어%20손글씨%20교본-99-연습장.pdf))
 
 ## 미리보기
 
