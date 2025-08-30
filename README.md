@@ -32,7 +32,7 @@
 	18. [미자(微子)](commentary/18-wei-zi.md)
 	19. [자장(子張)](commentary/19-zi-zhang.md)
 	20. [요왈(堯曰)](commentary/20-yao-yue.md)
-* [연습장(練習帳)](commentary/99-practice.md)
+	* [연습장(練習帳)](commentary/99-practice.md)
 
 ## 미리보기
 
