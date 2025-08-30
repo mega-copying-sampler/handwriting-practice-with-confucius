@@ -6,6 +6,8 @@
 
 ![공자](images/confucius.png)
 
+해설이 잘못된 것 같다고 생각된다면, 알고 계신 것이 맞고 제가 틀린 것입니다.
+
 ## 목차(目次)
 
 * [다운로드](download/README.md)
