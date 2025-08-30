@@ -70,3 +70,8 @@
 
 * [한자 필순(筆順)의 기본원칙 (https://blog.naver.com/osj1952/222146962682)](https://blog.naver.com/osj1952/222146962682)
 
+## 라이선스 (License)
+
+이 저작물은 [크리에이티브 커먼즈 저작자 표시-비영리 4.0 국제 라이선스](http://creativecommons.org/licenses/by-nc/4.0/)에 따라 비영리 목적으로는 자유롭게 이용할 수 있습니다.
+
+[![CC BY-NC 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png)](http://creativecommons.org/licenses/by-nc/4.0/)
