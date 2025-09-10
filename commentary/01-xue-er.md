@@ -71,6 +71,8 @@
 - 乎(어조사 호) – 의문형 조사
 ```
 
+---
+
 > <ruby>有<rp>(</rp><rt>유</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>자</rt><rp>)</rp></ruby><ruby>曰<rp>(</rp><rt>왈</rt><rp>)</rp></ruby>, <ruby>其<rp>(</rp><rt>기</rt><rp>)</rp></ruby><ruby>爲<rp>(</rp><rt>위</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>인</rt><rp>)</rp></ruby><ruby>也<rp>(</rp><rt>야</rt><rp>)</rp></ruby><sub>가</sub> <ruby>孝<rp>(</rp><rt>효</rt><rp>)</rp></ruby><ruby>弟<rp>(</rp><rt>제</rt><rp>)</rp></ruby><sub>오</sub> <ruby>而<rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby>好<rp>(</rp><rt>호</rt><rp>)</rp></ruby><ruby>犯<rp>(</rp><rt>범</rt><rp>)</rp></ruby><ruby>上<rp>(</rp><rt>상</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>자</rt><rp>)</rp></ruby><sub>가</sub> <ruby>鮮<rp>(</rp><rt>선</rt><rp>)</rp></ruby><ruby>矣<rp>(</rp><rt>의</rt><rp>)</rp></ruby><sub>니</sub>,
 > 
 > 유자님 말씀하시길, 그 사람됨이 효성스럽고 공손하면서 윗사람을 범하는 사람은 드물고,
@@ -147,6 +149,8 @@
 - 與(줄 여, 어조사 여) – 여기서는 뜻은 없는 조사로 사용됨
 ```
 
+---
+
 > <ruby>子<rp>(</rp><rt>자</rt><rp>)</rp></ruby><ruby>曰<rp>(</rp><rt>왈</rt><rp>)</rp></ruby>, <ruby>巧<rp>(</rp><rt>교</rt><rp>)</rp></ruby><ruby>言<rp>(</rp><rt>언</rt><rp>)</rp></ruby><ruby>令<rp>(</rp><rt>령</rt><rp>)</rp></ruby><ruby>色<rp>(</rp><rt>색</rt><rp>)</rp></ruby><sub>이</sub> <ruby>鮮<rp>(</rp><rt>선</rt><rp>)</rp></ruby><ruby>矣<rp>(</rp><rt>의</rt><rp>)</rp></ruby><ruby>仁<rp>(</rp><rt>인</rt><rp>)</rp></ruby><sub>이니라</sub>.
 > 
 > 공자님 말씀하시길, 말을 부풀리고 표정을 꾸미는 자들 치고 어진 사람은 드물다.
@@ -165,6 +169,8 @@
 - 矣(어조사 의)
 - 仁(어질 인)
 ```
+
+---
 
 > <ruby>曾<rp>(</rp><rt>증</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>자</rt><rp>)</rp></ruby><ruby>曰<rp>(</rp><rt>왈</rt><rp>)</rp></ruby>, <ruby>吾<rp>(</rp><rt>오</rt><rp>)</rp></ruby><ruby>日<rp>(</rp><rt>일</rt><rp>)</rp></ruby><ruby>三<rp>(</rp><rt>삼</rt><rp>)</rp></ruby><ruby>省<rp>(</rp><rt>성</rt><rp>)</rp></ruby><ruby>吾<rp>(</rp><rt>오</rt><rp>)</rp></ruby><ruby>身<rp>(</rp><rt>신</rt><rp>)</rp></ruby><sub>하노니</sub> <ruby>爲<rp>(</rp><rt>위</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>인</rt><rp>)</rp></ruby><ruby>謀<rp>(</rp><rt>모</rt><rp>)</rp></ruby><ruby>而<rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby>不<rp>(</rp><rt>불</rt><rp>)</rp></ruby><ruby>忠<rp>(</rp><rt>충</rt><rp>)</rp></ruby><ruby>乎<rp>(</rp><rt>호</rt><rp>)</rp></ruby><sub>아</sub>,
 > 
@@ -207,6 +213,8 @@
 - 乎(어조사 호) – 의문형 조사
 ```
 
+---
+
 > <ruby>子<rp>(</rp><rt>자</rt><rp>)</rp></ruby><ruby>曰<rp>(</rp><rt>왈</rt><rp>)</rp></ruby>, <ruby>道<rp>(</rp><rt>도</rt><rp>)</rp></ruby><ruby>千<rp>(</rp><rt>천</rt><rp>)</rp></ruby><ruby>乘<rp>(</rp><rt>승</rt><rp>)</rp></ruby><ruby>之<rp>(</rp><rt>지</rt><rp>)</rp></ruby><ruby>國<rp>(</rp><rt>국</rt><rp>)</rp></ruby><sub>호대</sub> <ruby>敬<rp>(</rp><rt>경</rt><rp>)</rp></ruby><ruby>事<rp>(</rp><rt>사</rt><rp>)</rp></ruby><ruby>而<rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby>信<rp>(</rp><rt>신</rt><rp>)</rp></ruby><sub>하며</sub>
 > 
 > 공자님 말씀하시길, 천승의 나라를 이끌려면 일을 신중하고 미덥게 처리하고
@@ -245,6 +253,8 @@
 - 使(부릴 사) – 使役(사역). 시키다
 - 以(써 이) – '~로써' (using)
 ```
+
+---
 
 > <ruby>子<rp>(</rp><rt>자</rt><rp>)</rp></ruby><ruby>夏<rp>(</rp><rt>하</rt><rp>)</rp></ruby><ruby>曰<rp>(</rp><rt>왈</rt><rp>)</rp></ruby>, <ruby>賢<rp>(</rp><rt>현</rt><rp>)</rp></ruby><ruby>賢<rp>(</rp><rt>현</rt><rp>)</rp></ruby><sub>호대</sub> <ruby>易<rp>(</rp><rt>역</rt><rp>)</rp></ruby><ruby>色<rp>(</rp><rt>색</rt><rp>)</rp></ruby><sub>하며</sub> <ruby>事<rp>(</rp><rt>사</rt><rp>)</rp></ruby><ruby>父<rp>(</rp><rt>부</rt><rp>)</rp></ruby><ruby>母<rp>(</rp><rt>모</rt><rp>)</rp></ruby><sub>호대</sub> <ruby>能<rp>(</rp><rt>능</rt><rp>)</rp></ruby><ruby>竭<rp>(</rp><rt>갈</rt><rp>)</rp></ruby><ruby>其<rp>(</rp><rt>기</rt><rp>)</rp></ruby><ruby>力<rp>(</rp><rt>력</rt><rp>)</rp></ruby><sub>하며</sub>
 > 
@@ -300,6 +310,8 @@
 - 矣(어조사 의)
 ```
 
+---
+
 > <ruby>子<rp>(</rp><rt>자</rt><rp>)</rp></ruby><ruby>曰<rp>(</rp><rt>왈</rt><rp>)</rp></ruby>, <ruby>君<rp>(</rp><rt>군</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>자</rt><rp>)</rp></ruby><ruby>不<rp>(</rp><rt>불</rt><rp>)</rp></ruby><ruby>重<rp>(</rp><rt>중</rt><rp>)</rp></ruby><ruby>則<rp>(</rp><rt>즉</rt><rp>)</rp></ruby><ruby>不<rp>(</rp><rt>불</rt><rp>)</rp></ruby><ruby>威<rp>(</rp><rt>위</rt><rp>)</rp></ruby><sub>니</sub> <ruby>學<rp>(</rp><rt>학</rt><rp>)</rp></ruby><ruby>則<rp>(</rp><rt>즉</rt><rp>)</rp></ruby><ruby>不<rp>(</rp><rt>불</rt><rp>)</rp></ruby><ruby>固<rp>(</rp><rt>고</rt><rp>)</rp></ruby><sub>이니라</sub>
 > 
 > 공자님 말씀하시길, 사람이 중후하지 않으면 위엄이 없고 학문을 배워도 견고하지 못하다.
@@ -336,6 +348,8 @@
 - 憚(꺼릴 탄) – 忌憚(기탄, 꺼릴 기, 꺼려서 피하다)
 ```
 
+---
+
 > <ruby>曾<rp>(</rp><rt>증</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>자</rt><rp>)</rp></ruby><ruby>曰<rp>(</rp><rt>왈</rt><rp>)</rp></ruby>, <ruby>愼<rp>(</rp><rt>신</rt><rp>)</rp></ruby><ruby>終<rp>(</rp><rt>종</rt><rp>)</rp></ruby><ruby>追<rp>(</rp><rt>추</rt><rp>)</rp></ruby><ruby>遠<rp>(</rp><rt>원</rt><rp>)</rp></ruby><sub>이면</sub> <ruby>民<rp>(</rp><rt>민</rt><rp>)</rp></ruby><ruby>德<rp>(</rp><rt>덕</rt><rp>)</rp></ruby>이 <ruby>歸<rp>(</rp><rt>귀</rt><rp>)</rp></ruby><ruby>厚<rp>(</rp><rt>후</rt><rp>)</rp></ruby><ruby>矣<rp>(</rp><rt>의</rt><rp>)</rp></ruby><sub>리라</sub>.
 > 
 > 증자님 말씀하시길, 상을 삼가 잘 치르고 먼 조상까지 추모하면 백성의 덕이 두터워질 것이다.
@@ -356,6 +370,8 @@
 - 歸(돌아올 귀) 厚(두터울 후)
 - 矣(어조사 의)
 ```
+
+---
 
 > <ruby>子<rp>(</rp><rt>자</rt><rp>)</rp></ruby><ruby>禽<rp>(</rp><rt>금</rt><rp>)</rp></ruby><sub>이</sub> <ruby>問<rp>(</rp><rt>문</rt><rp>)</rp></ruby><ruby>於<rp>(</rp><rt>어</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>자</rt><rp>)</rp></ruby><ruby>貢<rp>(</rp><rt>공</rt><rp>)</rp></ruby><ruby>曰<rp>(</rp><rt>왈</rt><rp>)</rp></ruby>, <ruby>夫<rp>(</rp><rt>부</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>자</rt><rp>)</rp></ruby><ruby>至<rp>(</rp><rt>지</rt><rp>)</rp></ruby><ruby>於<rp>(</rp><rt>어</rt><rp>)</rp></ruby><ruby>是<rp>(</rp><rt>시</rt><rp>)</rp></ruby><ruby>邦<rp>(</rp><rt>방</rt><rp>)</rp></ruby><ruby>也<rp>(</rp><rt>야</rt><rp>)</rp></ruby><sub>하샤</sub>
 > 
@@ -425,6 +441,8 @@
 - 與(어조사 여)
 ```
 
+---
+
 > <ruby>子<rp>(</rp><rt>자</rt><rp>)</rp></ruby><ruby>曰<rp>(</rp><rt>왈</rt><rp>)</rp></ruby>, <ruby>父<rp>(</rp><rt>부</rt><rp>)</rp></ruby><ruby>在<rp>(</rp><rt>재</rt><rp>)</rp></ruby><ruby>觀<rp>(</rp><rt>관</rt><rp>)</rp></ruby><ruby>其<rp>(</rp><rt>기</rt><rp>)</rp></ruby><ruby>志<rp>(</rp><rt>지</rt><rp>)</rp></ruby><sub>하고</sub> <ruby>父<rp>(</rp><rt>부</rt><rp>)</rp></ruby><ruby>沒<rp>(</rp><rt>몰</rt><rp>)</rp></ruby><ruby>觀<rp>(</rp><rt>관</rt><rp>)</rp></ruby><ruby>其<rp>(</rp><rt>기</rt><rp>)</rp></ruby><ruby>行<rp>(</rp><rt>행</rt><rp>)</rp></ruby><sub>이나</sub>
 > 
 > 공자님 말씀하시길, (어떤 사람에 대해) 아버지 계실 때의 뜻과 돌아가신 후의 행동을 비교해
@@ -460,6 +478,8 @@
 - 孝(효도 효) 矣(어조사 의)
 ```
 
+---
+
 > <ruby>有<rp>(</rp><rt>유</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>자</rt><rp>)</rp></ruby><ruby>曰<rp>(</rp><rt>왈</rt><rp>)</rp></ruby>, <ruby>禮<rp>(</rp><rt>예</rt><rp>)</rp></ruby><ruby>之<rp>(</rp><rt>지</rt><rp>)</rp></ruby><ruby>用<rp>(</rp><rt>용</rt><rp>)</rp></ruby>이 <ruby>和<rp>(</rp><rt>화</rt><rp>)</rp></ruby><ruby>爲<rp>(</rp><rt>위</rt><rp>)</rp></ruby><ruby>貴<rp>(</rp><rt>귀</rt><rp>)</rp></ruby><sub>하니</sub> <ruby>先<rp>(</rp><rt>선</rt><rp>)</rp></ruby><ruby>王<rp>(</rp><rt>왕</rt><rp>)</rp></ruby><ruby>之<rp>(</rp><rt>지</rt><rp>)</rp></ruby><ruby>道<rp>(</rp><rt>도</rt><rp>)</rp></ruby>가 <ruby>斯<rp>(</rp><rt>사</rt><rp>)</rp></ruby><ruby>爲<rp>(</rp><rt>위</rt><rp>)</rp></ruby><ruby>美<rp>(</rp><rt>미</rt><rp>)</rp></ruby>라 <ruby>小<rp>(</rp><rt>소</rt><rp>)</rp></ruby><ruby>大<rp>(</rp><rt>대</rt><rp>)</rp></ruby><ruby>由<rp>(</rp><rt>유</rt><rp>)</rp></ruby><ruby>之<rp>(</rp><rt>지</rt><rp>)</rp></ruby><sub>니라</sub>.
 > 
 > 유자님 말씀하시길, 예의 적용에는 조화가 중요하니, 선왕의 도에서는 이를 중시했고 작은 일과 큰일 모두 이에 따랐다.
@@ -494,6 +514,8 @@
 - 之(갈 지) – 그 것(行)을 절제
 - 亦(또 역) 可(옳을 가)
 ```
+
+---
 
 > <ruby>有<rp>(</rp><rt>유</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>자</rt><rp>)</rp></ruby><ruby>曰<rp>(</rp><rt>왈</rt><rp>)</rp></ruby>, <ruby>信<rp>(</rp><rt>신</rt><rp>)</rp></ruby><ruby>近<rp>(</rp><rt>근</rt><rp>)</rp></ruby><ruby>於<rp>(</rp><rt>어</rt><rp>)</rp></ruby><ruby>義<rp>(</rp><rt>의</rt><rp>)</rp></ruby><sub>면</sub> <ruby>言<rp>(</rp><rt>언</rt><rp>)</rp></ruby><ruby>可<rp>(</rp><rt>가</rt><rp>)</rp></ruby><ruby>復<rp>(</rp><rt>복</rt><rp>)</rp></ruby><ruby>也<rp>(</rp><rt>야</rt><rp>)</rp></ruby><sub>요</sub>
 > 
@@ -532,6 +554,8 @@
 - 宗(으뜸 종)
 ```
 
+---
+
 > <ruby>子<rp>(</rp><rt>자</rt><rp>)</rp></ruby><ruby>曰<rp>(</rp><rt>왈</rt><rp>)</rp></ruby>, <ruby>君<rp>(</rp><rt>군</rt><rp>)</rp></ruby><ruby>子<rp>(</rp><rt>자</rt><rp>)</rp></ruby><ruby>食<rp>(</rp><rt>식</rt><rp>)</rp></ruby><ruby>無<rp>(</rp><rt>무</rt><rp>)</rp></ruby><ruby>求<rp>(</rp><rt>구</rt><rp>)</rp></ruby><ruby>飽<rp>(</rp><rt>포</rt><rp>)</rp></ruby><sub>하며</sub> <ruby>居<rp>(</rp><rt>거</rt><rp>)</rp></ruby><ruby>無<rp>(</rp><rt>무</rt><rp>)</rp></ruby><ruby>求<rp>(</rp><rt>구</rt><rp>)</rp></ruby><ruby>安<rp>(</rp><rt>안</rt><rp>)</rp></ruby><sub>하며</sub>
 > 
 > 공자님 말씀하시길, 군자는 먹음에 배부름을 추구하지 않고, 삶에 편안함을 추구하지 않으며,
@@ -569,6 +593,8 @@
 - 好(좋을 호) 學(배울 학)
 - 也(어조사 야) 已(이미/어조사 이)
 ```
+
+---
 
 > <ruby>子<rp>(</rp><rt>자</rt><rp>)</rp></ruby><ruby>貢<rp>(</rp><rt>공</rt><rp>)</rp></ruby><ruby>曰<rp>(</rp><rt>왈</rt><rp>)</rp></ruby>, <ruby>貧<rp>(</rp><rt>빈</rt><rp>)</rp></ruby><ruby>而<rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby>無<rp>(</rp><rt>무</rt><rp>)</rp></ruby><ruby>諂<rp>(</rp><rt>첨</rt><rp>)</rp></ruby><sub>호대</sub> <ruby>富<rp>(</rp><rt>부</rt><rp>)</rp></ruby><ruby>而<rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby>無<rp>(</rp><rt>무</rt><rp>)</rp></ruby><ruby>驕<rp>(</rp><rt>교</rt><rp>)</rp></ruby><sub>호대</sub> <ruby>何<rp>(</rp><rt>하</rt><rp>)</rp></ruby><ruby>如<rp>(</rp><rt>여</rt><rp>)</rp></ruby><sub>하니잇고</sub>?
 > 
@@ -642,6 +668,8 @@
 - 告(알릴 고) 知(알 지) 者(것 자)
 - 往(갈 왕) 來(올 래) – 往來(왕래)
 ```
+
+---
 
 > <ruby>子<rp>(</rp><rt>자</rt><rp>)</rp></ruby><ruby>曰<rp>(</rp><rt>왈</rt><rp>)</rp></ruby>, <ruby>不<rp>(</rp><rt>불</rt><rp>)</rp></ruby><ruby>患<rp>(</rp><rt>환</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>인</rt><rp>)</rp></ruby><ruby>之<rp>(</rp><rt>지</rt><rp>)</rp></ruby><ruby>不<rp>(</rp><rt>불</rt><rp>)</rp></ruby><ruby>己<rp>(</rp><rt>기</rt><rp>)</rp></ruby><ruby>知<rp>(</rp><rt>지</rt><rp>)</rp></ruby><sub>오</sub> <ruby>患<rp>(</rp><rt>환</rt><rp>)</rp></ruby><ruby>不<rp>(</rp><rt>부</rt><rp>)</rp></ruby><ruby>知<rp>(</rp><rt>지</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>인</rt><rp>)</rp></ruby><ruby>也<rp>(</rp><rt>야</rt><rp>)</rp></ruby><sub>니라</sub>.
 > 

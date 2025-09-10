@@ -28,6 +28,8 @@
 - 星(별 성) 共(함께 공)
 ```
 
+---
+
 > <ruby>子<rp>(</rp><rt>자</rt><rp>)</rp></ruby><ruby>曰<rp>(</rp><rt>왈</rt><rp>)</rp></ruby>, <ruby>詩<rp>(</rp><rt>시</rt><rp>)</rp></ruby><ruby>三<rp>(</rp><rt>삼</rt><rp>)</rp></ruby><ruby>百<rp>(</rp><rt>백</rt><rp>)</rp></ruby><sub>애</sub>, <ruby>一<rp>(</rp><rt>일</rt><rp>)</rp></ruby><ruby>言<rp>(</rp><rt>언</rt><rp>)</rp></ruby><ruby>蔽<rp>(</rp><rt>폐</rt><rp>)</rp></ruby><ruby>之<rp>(</rp><rt>지</rt><rp>)</rp></ruby><sub>하니</sub> <ruby>曰<rp>(</rp><rt>왈</rt><rp>)</rp></ruby><ruby>思<rp>(</rp><rt>사</rt><rp>)</rp></ruby><ruby>無<rp>(</rp><rt>무</rt><rp>)</rp></ruby><ruby>邪<rp>(</rp><rt>사</rt><rp>)</rp></ruby><sub>이니라</sub>.
 > 
 > 시경의 삼백편 시를 한마디로 요약하자면 '생각에 간사함이 없다'라 할 수 있다.
@@ -42,6 +44,8 @@
 - 之(갈 지) – 그것. 詩經(시경)
 - 邪(간사할 사) – 奸邪(간사), 邪惡(사악)
 ```
+
+---
 
 > <ruby>子<rp>(</rp><rt>자</rt><rp>)</rp></ruby><ruby>曰<rp>(</rp><rt>왈</rt><rp>)</rp></ruby>, <ruby>道<rp>(</rp><rt>도</rt><rp>)</rp></ruby><ruby>之<rp>(</rp><rt>지</rt><rp>)</rp></ruby><ruby>以<rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby>政<rp>(</rp><rt>정</rt><rp>)</rp></ruby><sub>하고</sub>, <ruby>齊<rp>(</rp><rt>제</rt><rp>)</rp></ruby><ruby>之<rp>(</rp><rt>지</rt><rp>)</rp></ruby><ruby>以<rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby>刑<rp>(</rp><rt>형</rt><rp>)</rp></ruby><sub>이면</sub> <ruby>民<rp>(</rp><rt>민</rt><rp>)</rp></ruby><ruby>免<rp>(</rp><rt>면</rt><rp>)</rp></ruby><ruby>而<rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby>無<rp>(</rp><rt>무</rt><rp>)</rp></ruby><ruby>恥<rp>(</rp><rt>치</rt><rp>)</rp></ruby><sub>니라</sub>
 > 
@@ -79,6 +83,8 @@
 - 恥(부끄러울 치)
 - 且(또 차)
 ```
+
+---
 
 > <ruby>子<rp>(</rp><rt>자</rt><rp>)</rp></ruby><ruby>曰<rp>(</rp><rt>왈</rt><rp>)</rp></ruby>, <ruby>吾<rp>(</rp><rt>오</rt><rp>)</rp></ruby><ruby>十<rp>(</rp><rt>십</rt><rp>)</rp></ruby><ruby>有<rp>(</rp><rt>유</rt><rp>)</rp></ruby><ruby>五<rp>(</rp><rt>오</rt><rp>)</rp></ruby><ruby>而<rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby>志<rp>(</rp><rt>지</rt><rp>)</rp></ruby><ruby>于<rp>(</rp><rt>우</rt><rp>)</rp></ruby><ruby>學<rp>(</rp><rt>학</rt><rp>)</rp></ruby><sub>하고</sub> <ruby>三<rp>(</rp><rt>삼</rt><rp>)</rp></ruby><ruby>十<rp>(</rp><rt>십</rt><rp>)</rp></ruby><ruby>而<rp>(</rp><rt>이</rt><rp>)</rp></ruby><ruby>立<rp>(</rp><rt>립</rt><rp>)</rp></ruby><sub>하고</sub>
 > 
